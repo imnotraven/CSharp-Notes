@@ -2,4 +2,4 @@ Hello, I originally created this for my own study so if there's anyone seeing th
 
 TABLE OF CONTENTS
 -- OBJECT ORIENTED PROGRAMMING --
-[CLASSES, ]
+[CLASSES, FIELDS, METHODS, CONSTRUCTOR]{}
