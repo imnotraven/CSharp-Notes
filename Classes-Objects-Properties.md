@@ -77,9 +77,15 @@
     ```
     
     Without `new Dog();`, the object **wouldn’t exist in memory**, so you couldn’t set or use its properties.
-    <aside>
+      <aside>
+    💡
+    
     ### **🔥 Quick Recap**
+    
     ✅ **Declaring an object = Instantiating a class**
+    
     ✅ Instantiation is just **bringing a class to life in memory**
+    
     ✅ Without instantiation, a class is just a concept, not a real thing
+    
     </aside>
