@@ -1,5 +1,4 @@
 Hello, I originally created this for my own study so if there's anyone seeing this, I'm sorry for the mess. thank you
 
-TABLE OF CONTENTS
--- OBJECT ORIENTED PROGRAMMING --
-[CLASSES, FIELDS, METHODS, CONSTRUCTOR]{}
+i used notion for the formatting.
+
